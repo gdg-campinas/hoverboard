@@ -6,11 +6,6 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
@@ -57,47 +52,25 @@
       "permalink": "/"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
       "route": "schedule",
       "permalink": "/schedule/"
     },
     {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
-  "url": "https://hoverboard.firebaseapp.com/",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "disqusShortName": "hoverboard-gdg-x",
+  "url": "https://devfest2016.firebaseapp.com/",
   "languages": [
     {
       "name": "English",
       "key": "en"
-    },
-    {
-      "name": "Українська",
-      "key": "uk"
     }
   ],
   "footerBlocks": [
     {
       "title": "for-visitors",
       "links": [
-        {
-          "text": "team",
-          "url": "/team/"
-        },
         {
           "text": "cod",
           "url": "/cod/"
@@ -106,36 +79,6 @@
           "text": "google-developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "for-partners",
-      "links": [
-        {
-          "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
         }
       ]
     }
@@ -143,107 +86,81 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "contato@gdg-campinas.org",
+        "url": "mailto:contato@gdg-campinas.org"
       }
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "http://even.tc/devfest-campinas-2016",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 50,
+        "currency": "R$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
+        "soldOut": false
+      },
+      {
+        "name": "regular-ticket",
+        "price": 60,
+        "currency": "R$",
+        "starts": "regular-ticket-starts",
+        "ends": "regular-ticket-ends",
+        "info": "regular-ticket-info",
+        "soldOut": false
       },
       {
         "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
+        "price": 70,
+        "currency": "R$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
         "soldOut": false
       }
     ]
   },
-  "teamPageTitle": "team-page-title",
-  "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "attendees"
-    },
-    {
-      "counter": 2,
-      "caption": "days"
-    },
-    {
-      "counter": 30,
+      "counter": 10,
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 2,
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "devfestcampinas",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDG Campinas",
+      "url": "https://twitter.com/gdgcampinas"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "104323881166104132817",
+      "url": "https://plus.google.com/104323881166104132817"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG Campinas",
+      "url": "https://www.facebook.com/gdgcampinas"
     }
   ],
-  "tweetsSource": "/data/tweets.json",
-  "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
-    "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
-      "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
-      ]
-    }
-  },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "http://www.fcm.unicamp.br/fcm/relacoes-publicas/auditorio",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -22.829618,
+      "longitude": -47.063016,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -22.829618,
+      "longitude": -47.063016
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
