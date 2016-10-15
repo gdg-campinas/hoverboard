@@ -96,7 +96,7 @@
     "elements": [
       {
         "name": "early-ticket",
-        "price": 50,
+        "price": 40,
         "currency": "R$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
