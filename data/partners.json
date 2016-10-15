@@ -5,6 +5,21 @@
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
+      },
+      {
+        "name": "Conpec",
+        "url": "http://www.conpec.com.br/",
+        "logoUrl": "../images/logos/conpec.svg"
+      },
+      {
+        "name": "Cetus",
+        "url": "http://cetus.art.br/site/",
+        "logoUrl": "../images/logos/cetus.jpg"
+      },
+      {
+        "name": "Dextra",
+        "url": "http://dextra.com.br/pt/",
+        "logoUrl": "../images/logos/dextra.jpg"
       }
     ]
   }
