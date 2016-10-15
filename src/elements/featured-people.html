@@ -110,8 +110,8 @@
         </template>
       </div>
       <div>
-        <a href="/speakers" class="block-link">
-          <paper-button>[[localize('featured-people-view-all')]]</paper-button>
+        <a class="block-link">
+          <h3>[[localize('featured-people-view-all')]]</h3></paper-button>
         </a>
       </div>
     </div>
@@ -141,6 +141,7 @@
         _peopleChanged: function () {
           var people = this._toArray(this.people),
             filteredPeople = [];
+            console.log(people);
           for (var i = 0, length = people.length; i < length; i++) {
             if (people[i].featured) {
               filteredPeople.push(people[i]);
