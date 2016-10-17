@@ -35,7 +35,7 @@ meta data in `index.html`
 ```
 <head>
   <meta name="description"
-        content="Campinas, um grande polo tecológico, recebe a maior conferência sobre tecnologias Google do interior de São Paulo!">
+        content="Campinas, um grande polo tecnológico, recebe a maior conferência sobre tecnologias Google do interior de São Paulo!">
   <meta name="keywords"
         content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev">
   <meta name="author" content="GDG Campinas">
