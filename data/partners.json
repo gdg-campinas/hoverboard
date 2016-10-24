@@ -1,26 +1,42 @@
 [
-  {
-    "logos": [
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "Conpec",
-        "url": "http://www.conpec.com.br/",
-        "logoUrl": "../images/logos/conpec.svg"
-      },
-      {
-        "name": "Cetus",
-        "url": "http://cetus.art.br/site/",
-        "logoUrl": "../images/logos/cetus.jpg"
-      },
-      {
-        "name": "Dextra",
-        "url": "http://dextra.com.br/pt/",
-        "logoUrl": "../images/logos/dextra.jpg"
-      }
-    ]
-  }
+    {
+        "title": "sponsor",
+        "logos": [
+            {
+                "logoUrl": "../images/logos/google.svg",
+                "name": "Google",
+                "url": "https://www.google.com.ua/intl/en/about/"
+            },
+            {
+                "logoUrl": "../images/logos/cetus.jpg",
+                "name": "Cetus",
+                "url": "http://cetus.art.br/site/"
+            },
+            {
+                "logoUrl": "../images/logos/dextra.jpg",
+                "name": "Dextra",
+                "url": "http://dextra.com.br/pt/"
+            }
+        ]
+    },
+    {
+        "title": "support",
+        "logos": [
+            {
+                "logoUrl": "../images/logos/conpec.svg",
+                "name": "Conpec",
+                "url": "http://www.conpec.com.br/"
+            },
+            {
+                "logoUrl": "../images/logos/sou-java.jpg",
+                "name": "SouJava",
+                "url": "https://www.facebook.com/CampinasJUG/"
+            },
+            {
+                "logoUrl": "../images/logos/caipira-agil.png",
+                "name": "Caipira Ágil",
+                "url": "http://www.caipiraagil.com"
+            }
+        ]
+    }
 ]
