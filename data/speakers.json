@@ -1,27 +1,109 @@
 {
-	"1": {		
-         "id": 1,		
-         "featured": true,		
-         "name": "Ubiratan Soares",		
-         "title": "GDE Software Engineer",		
-         "company": "Luiza Labs",		
-         "companyLogo": "/images/logos/luiza-labs.png",		
-         "country": "Brasil",		
-         "photoUrl": "/images/people/campinas/bira.jpg",		
-         "shortBio": "...",		
-         "bio": "...",		
-         "tags": [		
-             "Android",		
-         ],		
-        "badges": [		
- 		
-         ], 
-         "socials": [			
-             {		
-                 "icon": "linkedin",		
-                 "name": "LinkedIn",		
-                 "link": ""		
-             }		
-         ]
-     }
+    "1": {
+        "badges": [],
+        "bio": "Eu sou o Ale :)",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Brasil",
+        "featured": true,
+        "id": 1,
+        "name": "Ale Borba",
+        "photoUrl": "/images/people/campinas/ale-borba.jpg",
+        "shortBio": "Eu sou o Ale :)",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/ale_borba",
+                "name": "Twitter"
+            }
+        ],
+        "tags": [
+            "Firebase"
+        ],
+        "title": "Program Manager"
+    },
+    "2": {
+        "badges": [],
+        "bio": "Alline Oliveira é uma das poucas mulheres no mundo certificada como Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Departamento de Defesa Americano, Universidade da California, TAM, Anatel, Serpro, dentre outros. Hoje trabalha para startups no Brasil, onde desenvolve projetos de alta complexidade com arquitetura em nuvem",
+        "company": "CI&T",
+        "companyLogo": "",
+        "country": "Brasil",
+        "featured": true,
+        "id": 2,
+        "name": "Alline Oliveira",
+        "photoUrl": "/images/people/campinas/alline-oliveira.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/allineo",
+                "name": "Twitter"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://facebook.com/alline.oliveira",
+                "name": "Facebook"
+            }
+        ],
+        "tags": [
+            "Cloud"
+        ],
+        "title": "Developer Manager"
+    },
+    "3": {
+        "badges": [],
+        "bio": "",
+        "company": "Ingresso Rápido",
+        "companyLogo": "",
+        "country": "Brasil",
+        "featured": false,
+        "id": 3,
+        "name": "Gabriel Ribeiro",
+        "photoUrl": "/images/people/campinas/gabriel-ribeiro.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "github",
+                "link": "https://github.com/gabriel-ribeiro-ir/",
+                "name": "GitHub"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/bielribeiro",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/biel.ribeiro90",
+                "name": "Facebook"
+            }
+        ],
+        "tags": [
+            "WebComponents"
+        ],
+        "title": "Desenvolvedor Front-end"
+    },
+    "4": {
+        "badges": [],
+        "bio": "Matheus é um desenvolvedor muito agitado e apaixonado pela tecnologia, sempre imaginando onde encaixar um pedaço de código que ajudará alguém. Focado na linguagem de programação que dominará o mundo, prega e espalha o JavaScript por onde passa. Desenvolvendo software e dando treinamentos pelo Brasil, busca sempre evoluir em suas habilidades ténicas, nunca se esquecendo do lado humano da área.",
+        "company": "Dextra Sistemas",
+        "companyLogo": "/images/logos/dextra.jpg",
+        "country": "Brasil",
+        "featured": false,
+        "id": 4,
+        "name": "Matheus Martins",
+        "photoUrl": "/images/people/campinas/matheus-martins.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "github",
+                "link": "https://github.com/matheusmr13",
+                "name": "GitHub"
+            }
+        ],
+        "tags": [
+            "Apps Script"
+        ],
+        "title": "Analista de Software"
+    }
 }
