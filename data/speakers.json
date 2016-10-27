@@ -156,6 +156,11 @@
                 "icon": "github",
                 "link": "https://github.com/matheusmr13",
                 "name": "GitHub"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/matheus-martins-do-rego-9593a484",
+                "name": "LinkedIn"
             }
         ],
         "tags": [
