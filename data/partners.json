@@ -11,6 +11,11 @@
                 "logoUrl": "../images/logos/dextra.jpg",
                 "name": "Dextra",
                 "url": "http://dextra.com.br/pt/"
+            },
+            {
+                "logoUrl": "../images/logos/imasters.png",
+                "name": "iMasters",
+                "url": "http://imasters.com.br"
             }
         ]
     },
