@@ -109,12 +109,35 @@
     },
     "5": {
         "badges": [],
+        "bio": "Fernando is a passionate software craftsman who's worked for a wide range of industries and projects. He is an open source developer, technical writer and conference speaker. At Dextra, he blends his technical and management skills to lead and help teams that are building awesome software products for startups, technology, media, manufacturing, financial and other types of companies. He is the creator of the YAWP! Framework, a Java/Javascript framework that helps developers to easily create scalable REST APIs over the Google Cloud Platform. He lives in Brazil and studied Computer Science at the University of Campinas. He loves the countryside where he enjoys riding horses and playing his guitar loud.",
+        "company": "Dextra Sistemas",
+        "companyLogo": "/images/logos/dextra.jpg",
+        "country": "Brasil",
+        "featured": true,
+        "id": 5,
+        "name": "Fernando Ultremare, GDE",
+        "photoUrl": "/images/people/campinas/fernando-ultremare.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/feroult",
+                "name": "Twitter"
+            }
+        ],
+        "tags": [
+            "Cloud"
+        ],
+        "title": "Operations Manager"
+    },
+    "6": {
+        "badges": [],
         "bio": "",
         "company": "Ingresso Rápido",
         "companyLogo": "",
         "country": "Brasil",
         "featured": false,
-        "id": 5,
+        "id": 6,
         "name": "Gabriel Ribeiro",
         "photoUrl": "/images/people/campinas/gabriel-ribeiro.jpg",
         "shortBio": "",
@@ -140,14 +163,14 @@
         ],
         "title": "Desenvolvedor Front-end"
     },
-    "6": {
+    "7": {
         "badges": [],
         "bio": "Matheus é um desenvolvedor muito agitado e apaixonado pela tecnologia, sempre imaginando onde encaixar um pedaço de código que ajudará alguém. Focado na linguagem de programação que dominará o mundo, prega e espalha o JavaScript por onde passa. Desenvolvendo software e dando treinamentos pelo Brasil, busca sempre evoluir em suas habilidades ténicas, nunca se esquecendo do lado humano da área.",
         "company": "Dextra Sistemas",
         "companyLogo": "/images/logos/dextra.jpg",
         "country": "Brasil",
         "featured": false,
-        "id": 6,
+        "id": 7,
         "name": "Matheus Martins",
         "photoUrl": "/images/people/campinas/matheus-martins.jpg",
         "shortBio": "",
