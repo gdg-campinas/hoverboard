@@ -190,5 +190,28 @@
             "Apps Script"
         ],
         "title": "Analista de Software"
+    },
+    "8": {
+        "badges": [],
+        "bio": "Formado pela PUC-Campinas, comecei a trabalhar com mobile em 2008 e tive o primeiro contato com Android em 2009, na versão Cupcake. Desde o inicio da minha carreira atuei em várias frentes para Android em empresas multinacionais, participando do desenvolvimento de aplicativos tanto em âmbito global quanto local, atuando em Java e em framework.",
+        "company": "CI&T",
+        "companyLogo": "/images/logos/ciandt.jpg",
+        "country": "Brasil",
+        "featured": false,
+        "id": 8,
+        "name": "Paulo Sato",
+        "photoUrl": "/images/people/campinas/paulo-sato.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/paulo-sato-79196218",
+                "name": "LinkedIn"
+            }
+        ],
+        "tags": [
+            "Android"
+        ],
+        "title": "Engenheiro de Software"
     }
 }
