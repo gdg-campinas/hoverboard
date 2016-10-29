@@ -102,6 +102,15 @@
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
         "soldOut": false
+      },
+      {
+        "name": "regular-ticket",
+        "price": 55,
+        "currency": "R$",
+        "starts": "regular-ticket-starts",
+        "ends": "regular-ticket-ends",
+        "info": "regular-ticket-info",
+        "soldOut": false
       }
     ]
   },
