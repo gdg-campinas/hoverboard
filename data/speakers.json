@@ -99,7 +99,7 @@
             {
                 "icon": "linkedin",
                 "link": "https://br.linkedin.com/in/ubiratanfsoares",
-                "name": "Linkedin"
+                "name": "LinkedIn"
             }
         ],
         "tags": [
@@ -150,7 +150,7 @@
             {
                 "icon": "linkedin",
                 "link": "https://br.linkedin.com/in/bielribeiro",
-                "name": "Linkedin"
+                "name": "LinkedIn"
             },
             {
                 "icon": "facebook",
@@ -213,5 +213,162 @@
             "Android"
         ],
         "title": "Engenheiro de Software"
+    },
+    "9": {
+        "badges": [],
+        "bio": "",
+        "company": "CI&T",
+        "companyLogo": "/images/logos/ciandt.jpg",
+        "country": "Brasil",
+        "featured": false,
+        "id": 9,
+        "name": "Andrelise Gonçalves",
+        "photoUrl": "/images/people/campinas/andrelise-goncalves.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/andrelise",
+                "name": "LinkedIn"
+            }
+        ],
+        "tags": [
+            "Testes"
+        ],
+        "title": "Tester"
+    },
+    "10": {
+        "badges": [],
+        "bio": "Mauro Pichiliani é bacharel em Ciência da Computação, mestre e doutor pelo ITA (Instituto Tecnológico de Aeronáutica). Trabalha há mais de 15 anos utilizando diversas tecnologias de programação e já participou de projetos envolvendo aplicações móveis, realidade virtual, bancos de dados e machine learning. É colunista do iMasters, escritor da revista SQL Magazine e mantenedor do DatabaseCast (@databasecast), o podcast brasileiro sobre banco de dados.",
+        "company": "Pitec Tecnologia",
+        "companyLogo": "",
+        "country": "Brasil",
+        "featured": false,
+        "id": 10,
+        "name": "Mauro Pichiliani",
+        "photoUrl": "/images/people/campinas/mauro-pichiliani.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "http://twitter.com/@pichiliani",
+                "name": "Twitter"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/mauro.pichiliani/",
+                "name": "Facebook"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/mauro-pichiliani-b0a48417",
+                "name": "LinkedIn"
+            },
+            {
+                "icon": "website",
+                "link": "http://pichiliani.com.br",
+                "name": "Blog"
+            },
+            {
+                "icon": "github",
+                "link": "http://github.com/pichiliani",
+                "name": "GitHub"
+            }
+        ],
+        "tags": [
+            "TensorFlow",
+            "IA",
+            "Deep Learning"
+        ],
+        "title": "Consultor independente"
+    },
+    "11": {
+        "badges": [],
+        "bio": "Douglas Waragai, 3D generalista e videografista VR na Kroton Educacional. Co-fundador da produtora 360vision e do canal VRevolution. Toshio Ogusko: Entusiasta VR, coordenador do setor Núcleo de Realidade Virtual na Kroton Educacional. Co-fundador da VRevolution e 360Vision. Thiago Zanchi: desenvolvedor de jogos indie, desenvolvedor VR na Kroton Educacional e co-fundador da VRevolution. Guilherme Campos, diretor de conteúdo, entusiasta VR e  co-fundador da VRevolution e 360Vision. Paulo Leal, empresário e co-fundador da VRevolution",
+        "company": "VRevolution",
+        "companyLogo": "/images/logos/vrevolution.png",
+        "country": "Brasil",
+        "featured": false,
+        "id": 11,
+        "name": "VRevolution",
+        "photoUrl": "/images/people/campinas/vrevolution-team.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "website",
+                "link": "http://www.vrevolution.com.br/",
+                "name": "Website"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/VRevolutionBR/",
+                "name": "Facebook"
+            },
+            {
+                "icon": "youtube",
+                "link": "https://www.youtube.com/channel/UCxz74yeBjglKQxXypkyW2Lg",
+                "name": "YouTube"
+            },
+            {
+                "icon": "website",
+                "link": "https://www.360vision.com.br/",
+                "name": "Website"
+            }
+        ],
+        "tags": [
+            "VR"
+        ],
+        "title": ""
+    },
+    "12": {
+        "badges": [],
+        "bio": "Atua como desenvolvedor na Codeminer 42, possui grande interesse em JavaScript/Node, desenvolvimento front-end e arquiteturas de aplicações web. Atualmente tentando mostrar às pessoas que o mundo JavaScript vive novos tempos.",
+        "company": "Codeminer 42",
+        "companyLogo": "/images/logos/codeminer.png",
+        "country": "Brasil",
+        "featured": false,
+        "id": 12,
+        "name": "Talysson Oliveira",
+        "photoUrl": "/images/people/campinas/talysson-oliveira.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/talyssonoc",
+                "name": "Twitter"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/talyssonoc",
+                "name": "LinkedIn"
+            },
+            {
+                "icon": "github",
+                "link": "http://github.com/talyssonoc/",
+                "name": "GitHub"
+            }
+        ],
+        "tags" : [
+            "Angular"
+        ],
+        "title": "Desenvolvedor"
+    },
+    "13": {
+        "badges": [],
+        "bio": "",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Brasil",
+        "featured": true,
+        "id": 13,
+        "name": "Ted Gola",
+        "photoUrl": "/images/people/campinas/ted-gola.jpg",
+        "shortBio": "",
+        "socials": [
+        ],
+        "tags": [
+            "Design"
+        ],
+        "title": "Education Designer"
     }
 }
