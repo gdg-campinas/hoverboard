@@ -2,23 +2,21 @@
     "103": {
         "description": "",
         "id": 103,
-        "image": "",
         "speakers": [
             1
         ],
         "tags": [
-            "Geral"
+            "General"
         ],
         "title": "Keynote"
     },
     "104": {
         "id": 104,
-        "image": "",
         "speakers": [
             2
         ],
         "tags": [
-            "Cloud"
+            "Firebase"
         ],
         "title": "Firebase"
     },
@@ -40,6 +38,7 @@
             12
         ],
         "tags": [
+            "Angular JS",
             "Web"
         ],
         "title": "Construindo uma arquitetura modularizada e manutenível com Angular 1"
@@ -84,6 +83,7 @@
             6
         ],
         "tags": [
+            "Polymer",
             "Web"
         ],
         "title": "WebComponents com Polymer"
