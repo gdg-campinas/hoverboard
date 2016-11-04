@@ -16,6 +16,11 @@
                 "logoUrl": "../images/logos/imasters.png",
                 "name": "iMasters",
                 "url": "http://imasters.com.br"
+            },
+            {
+                "logoUrl": "../images/logos/ciandt-sponsor.jpg",
+                "name": "CI&T",
+                "url": "http://www.ciandt.com/"
             }
         ]
     },
