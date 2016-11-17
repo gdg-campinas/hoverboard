@@ -111,6 +111,15 @@
         "ends": "regular-ticket-ends",
         "info": "regular-ticket-info",
         "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 66,
+        "currency": "R$",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
+        "soldOut": true
       }
     ]
   },
