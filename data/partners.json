@@ -8,6 +8,11 @@
                 "url": "https://www.google.com.ua/intl/en/about/"
             },
             {
+                "logoUrl": "../images/logos/caelum.svg",
+                "name": "Caelum",
+                "url": "https://www.caelum.com.br"
+            },
+            {
                 "logoUrl": "../images/logos/dextra.jpg",
                 "name": "Dextra",
                 "url": "http://dextra.com.br/pt/"
