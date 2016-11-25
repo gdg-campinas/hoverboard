@@ -96,7 +96,7 @@
     "elements": [
       {
         "name": "early-ticket",
-        "price": 44,
+        "price": 40,
         "currency": "R$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
@@ -105,7 +105,7 @@
       },
       {
         "name": "regular-ticket",
-        "price": 55,
+        "price": 50,
         "currency": "R$",
         "starts": "regular-ticket-starts",
         "ends": "regular-ticket-ends",
@@ -114,7 +114,7 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 66,
+        "price": 60,
         "currency": "R$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
