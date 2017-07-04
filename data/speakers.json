@@ -1,2 +1,374 @@
 {
+    "1": {
+        "badges": [],
+        "bio": "Director at Movile, former Apple designer, passionate photographer has a long time affair with Psychology and Theology.",
+        "company": "Movile",
+        "companyLogo": "/images/logos/movile.png",
+        "country": "Brasil",
+        "featured": true,
+        "id": 1,
+        "name": "Everaldo Coelho",
+        "photoUrl": "/images/people/campinas/everaldo-coelho.jpg",
+        "shortBio": "Director at Movile, former Apple designer, passionate photographer has a long time affair with Psychology and Theology.",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/_everaldo",
+                "name": "Twitter"
+            },
+            {
+                "icon": "instagram",
+                "link": "https://www.instagram.com/everaldo/",
+                "name": "Instagram"
+            }
+        ],
+        "tags": [
+            "Design",
+            "Product management"
+        ],
+        "title": "Diretor"
+    },
+    "2": {
+        "badges": [],
+        "bio": "Eu sou o Ale :)",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Brasil",
+        "featured": true,
+        "id": 2,
+        "name": "Ale Borba",
+        "photoUrl": "/images/people/campinas/ale-borba.jpg",
+        "shortBio": "Eu sou o Ale :)",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/ale_borba",
+                "name": "Twitter"
+            }
+        ],
+        "tags": [
+            "Firebase"
+        ],
+        "title": "Program Manager"
+    },
+    "3": {
+        "badges": [],
+        "bio": "Alline Oliveira é uma das poucas mulheres no mundo certificada como Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Departamento de Defesa Americano, Universidade da California, TAM, Anatel, Serpro, dentre outros. Hoje trabalha para startups no Brasil, onde desenvolve projetos de alta complexidade com arquitetura em nuvem",
+        "company": "",
+        "companyLogo": "",
+        "country": "Brasil",
+        "featured": true,
+        "id": 3,
+        "name": "Alline Oliveira, GDE",
+        "photoUrl": "/images/people/campinas/alline-oliveira.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/allineo",
+                "name": "Twitter"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://facebook.com/alline.oliveira",
+                "name": "Facebook"
+            }
+        ],
+        "tags": [
+            "Cloud"
+        ],
+        "title": "Developer Manager"
+    },
+    "4": {
+        "badges": [],
+        "bio": "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo, atualmente colaborador do Luizalabs, divisão de inovação do Magazine Luiza em São Paulo. Trabalha com mobilidade há mais de seis anos e é especialista em desenvolvimento para Android, tendo participação direta na construção de alguns dos maiores aplicativos nacionais hoje online. Também é co-organizador do GDG São Paulo e palestrante frequente nos maiores eventos de tecnologia do país. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa da Intel Software Innovator para Android.",
+        "company": "Luizalabs",
+        "companyLogo": "/images/logos/luizalabs.png",
+        "country": "Brasil",
+        "featured": true,
+        "id": 4,
+        "name": "Ubiratan Soares, GDE",
+        "photoUrl": "/images/people/campinas/ubiratan-soares.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/ubiratanfsoares",
+                "name": "Twitter"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/ubiratanfsoares",
+                "name": "LinkedIn"
+            }
+        ],
+        "tags": [
+            "Android"
+        ],
+        "title": "Software Engineer"
+    },
+    "5": {
+        "badges": [],
+        "bio": "Fernando is a passionate software craftsman who's worked for a wide range of industries and projects. He is an open source developer, technical writer and conference speaker. At Dextra, he blends his technical and management skills to lead and help teams that are building awesome software products for startups, technology, media, manufacturing, financial and other types of companies. He is the creator of the YAWP! Framework, a Java/Javascript framework that helps developers to easily create scalable REST APIs over the Google Cloud Platform. He lives in Brazil and studied Computer Science at the University of Campinas. He loves the countryside where he enjoys riding horses and playing his guitar loud.",
+        "company": "Dextra Sistemas",
+        "companyLogo": "/images/logos/dextra.jpg",
+        "country": "Brasil",
+        "featured": true,
+        "id": 5,
+        "name": "Fernando Ultremare, GDE",
+        "photoUrl": "/images/people/campinas/fernando-ultremare.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/feroult",
+                "name": "Twitter"
+            }
+        ],
+        "tags": [
+            "Cloud"
+        ],
+        "title": "Operations Manager"
+    },
+    "6": {
+        "badges": [],
+        "bio": "",
+        "company": "Ingresso Rápido",
+        "companyLogo": "/images/logos/ingresso-rapido.png",
+        "country": "Brasil",
+        "featured": false,
+        "id": 6,
+        "name": "Gabriel Ribeiro",
+        "photoUrl": "/images/people/campinas/gabriel-ribeiro.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "github",
+                "link": "https://github.com/gabriel-ribeiro-ir/",
+                "name": "GitHub"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/bielribeiro",
+                "name": "LinkedIn"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/biel.ribeiro90",
+                "name": "Facebook"
+            }
+        ],
+        "tags": [
+            "WebComponents"
+        ],
+        "title": "Desenvolvedor Front-end"
+    },
+    "7": {
+        "badges": [],
+        "bio": "Matheus é um desenvolvedor muito agitado e apaixonado pela tecnologia, sempre imaginando onde encaixar um pedaço de código que ajudará alguém. Focado na linguagem de programação que dominará o mundo, prega e espalha o JavaScript por onde passa. Desenvolvendo software e dando treinamentos pelo Brasil, busca sempre evoluir em suas habilidades ténicas, nunca se esquecendo do lado humano da área.",
+        "company": "Dextra Sistemas",
+        "companyLogo": "/images/logos/dextra.jpg",
+        "country": "Brasil",
+        "featured": false,
+        "id": 7,
+        "name": "Matheus Martins",
+        "photoUrl": "/images/people/campinas/matheus-martins.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "github",
+                "link": "https://github.com/matheusmr13",
+                "name": "GitHub"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/matheus-martins-do-rego-9593a484",
+                "name": "LinkedIn"
+            }
+        ],
+        "tags": [
+            "Apps Script"
+        ],
+        "title": "Analista de Software"
+    },
+    "8": {
+        "badges": [],
+        "bio": "Formado pela PUC-Campinas, comecei a trabalhar com mobile em 2008 e tive o primeiro contato com Android em 2009, na versão Cupcake. Desde o inicio da minha carreira atuei em várias frentes para Android em empresas multinacionais, participando do desenvolvimento de aplicativos tanto em âmbito global quanto local, atuando em Java e em framework.",
+        "company": "CI&T",
+        "companyLogo": "/images/logos/ciandt.jpg",
+        "country": "Brasil",
+        "featured": false,
+        "id": 8,
+        "name": "Paulo Sato",
+        "photoUrl": "/images/people/campinas/paulo-sato.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/paulo-sato-79196218",
+                "name": "LinkedIn"
+            }
+        ],
+        "tags": [
+            "Android"
+        ],
+        "title": "Engenheiro de Software"
+    },
+    "9": {
+        "badges": [],
+        "bio": "",
+        "company": "CI&T",
+        "companyLogo": "/images/logos/ciandt.jpg",
+        "country": "Brasil",
+        "featured": false,
+        "id": 9,
+        "name": "Andrelise Gonçalves",
+        "photoUrl": "/images/people/campinas/andrelise-goncalves.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/andrelise",
+                "name": "LinkedIn"
+            }
+        ],
+        "tags": [
+            "Testes"
+        ],
+        "title": "Tester"
+    },
+    "10": {
+        "badges": [],
+        "bio": "Mauro Pichiliani é bacharel em Ciência da Computação, mestre e doutor pelo ITA (Instituto Tecnológico de Aeronáutica). Trabalha há mais de 15 anos utilizando diversas tecnologias de programação e já participou de projetos envolvendo aplicações móveis, realidade virtual, bancos de dados e machine learning. É colunista do iMasters, escritor da revista SQL Magazine e mantenedor do DatabaseCast (@databasecast), o podcast brasileiro sobre banco de dados.",
+        "company": "Pitec Tecnologia",
+        "companyLogo": "",
+        "country": "Brasil",
+        "featured": false,
+        "id": 10,
+        "name": "Mauro Pichiliani",
+        "photoUrl": "/images/people/campinas/mauro-pichiliani.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "http://twitter.com/@pichiliani",
+                "name": "Twitter"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/mauro.pichiliani/",
+                "name": "Facebook"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/mauro-pichiliani-b0a48417",
+                "name": "LinkedIn"
+            },
+            {
+                "icon": "website",
+                "link": "http://pichiliani.com.br",
+                "name": "Blog"
+            },
+            {
+                "icon": "github",
+                "link": "http://github.com/pichiliani",
+                "name": "GitHub"
+            }
+        ],
+        "tags": [
+            "TensorFlow",
+            "IA",
+            "Deep Learning"
+        ],
+        "title": "Consultor independente"
+    },
+    "11": {
+        "badges": [],
+        "bio": "Douglas Waragai, 3D generalista e videografista VR na Kroton Educacional. Co-fundador da produtora 360vision e do canal VRevolution. Toshio Ogusko: Entusiasta VR, coordenador do setor Núcleo de Realidade Virtual na Kroton Educacional. Co-fundador da VRevolution e 360Vision. Thiago Zanchi: desenvolvedor de jogos indie, desenvolvedor VR na Kroton Educacional e co-fundador da VRevolution. Guilherme Campos, diretor de conteúdo, entusiasta VR e  co-fundador da VRevolution e 360Vision. Paulo Leal, empresário e co-fundador da VRevolution",
+        "company": "VRevolution",
+        "companyLogo": "/images/logos/vrevolution.png",
+        "country": "Brasil",
+        "featured": false,
+        "id": 11,
+        "name": "VRevolution",
+        "photoUrl": "/images/people/campinas/vrevolution-team.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "website",
+                "link": "http://www.vrevolution.com.br/",
+                "name": "Website"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/VRevolutionBR/",
+                "name": "Facebook"
+            },
+            {
+                "icon": "youtube",
+                "link": "https://www.youtube.com/channel/UCxz74yeBjglKQxXypkyW2Lg",
+                "name": "YouTube"
+            },
+            {
+                "icon": "website",
+                "link": "https://www.360vision.com.br/",
+                "name": "Website"
+            }
+        ],
+        "tags": [
+            "VR"
+        ],
+        "title": ""
+    },
+    "12": {
+        "badges": [],
+        "bio": "Atua como desenvolvedor na Codeminer 42, possui grande interesse em JavaScript/Node, desenvolvimento front-end e arquiteturas de aplicações web. Atualmente tentando mostrar às pessoas que o mundo JavaScript vive novos tempos.",
+        "company": "Codeminer 42",
+        "companyLogo": "/images/logos/codeminer.png",
+        "country": "Brasil",
+        "featured": false,
+        "id": 12,
+        "name": "Talysson Oliveira",
+        "photoUrl": "/images/people/campinas/talysson-oliveira.jpg",
+        "shortBio": "",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/talyssonoc",
+                "name": "Twitter"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://br.linkedin.com/in/talyssonoc",
+                "name": "LinkedIn"
+            },
+            {
+                "icon": "github",
+                "link": "http://github.com/talyssonoc/",
+                "name": "GitHub"
+            }
+        ],
+        "tags" : [
+            "Angular"
+        ],
+        "title": "Desenvolvedor"
+    },
+    "13": {
+        "badges": [],
+        "bio": "",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Brasil",
+        "featured": true,
+        "id": 13,
+        "name": "Ted Gola",
+        "photoUrl": "/images/people/campinas/ted-gola.jpg",
+        "shortBio": "",
+        "socials": [
+        ],
+        "tags": [
+            "Design"
+        ],
+        "title": "Education Designer"
+    }
 }

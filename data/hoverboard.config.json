@@ -52,12 +52,12 @@
       "permalink": "/"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/"
+        "route": "speakers",
+        "permalink": "/speakers"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/"
+      "route": "schedule",
+      "permalink": "/schedule/"
     }
   ],
   "url": "https://devfest2016.firebaseapp.com/",
@@ -101,17 +101,35 @@
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": false
+        "soldOut": true
+      },
+      {
+        "name": "regular-ticket",
+        "price": 50,
+        "currency": "R$",
+        "starts": "regular-ticket-starts",
+        "ends": "regular-ticket-ends",
+        "info": "regular-ticket-info",
+        "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 60,
+        "currency": "R$",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
+        "soldOut": true
       }
     ]
   },
   "statistics": [
     {
-      "counter": 10,
+      "counter": 20,
       "caption": "sessions"
     },
     {
-      "counter": 2,
+      "counter": 4,
       "caption": "tracks"
     }
   ],
@@ -131,14 +149,19 @@
       "name": "facebook",
       "nickname": "GDG Campinas",
       "url": "https://www.facebook.com/gdgcampinas"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "GDG Campinas",
+      "url": "https://www.linkedin.com/company-beta/15240699/"
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI",
     "link": "http://www.fcm.unicamp.br/fcm/relacoes-publicas/auditorio",
     "pointer": {
-      "latitude": -22.829618,
-      "longitude": -47.063016,
+      "latitude": -22.902318,
+      "longitude": -47.048125,
       "zoom": 15
     },
     "mapCenter": {

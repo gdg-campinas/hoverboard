@@ -3,8 +3,140 @@
         "date": "2016-11-26",
         "dateReadable": "26 de Novembro",
         "timeslots": [
+            {
+                "endTime": "09:50",
+                "sessions": [
+                    [
+                        132
+                    ]
+                ],
+                "startTime": "09:00"
+            },
+            {
+                "endTime": "10:00",
+                "sessions": [
+                    [
+                        135
+                    ]
+                ],
+                "startTime": "09:50"
+            },
+            {
+                "endTime": "10:50",
+                "sessions": [
+                    [
+                        103
+                    ]
+                ],
+                "startTime": "10:00"
+            },
+            {
+                "endTime": "11:40",
+                "sessions": [
+                    [
+                        106
+                    ],
+                    [
+                        107
+                    ]
+                ],
+                "startTime": "10:50"
+            },
+            {
+                "endTime": "12:30",
+                "sessions": [
+                    [
+                        108
+                    ],
+                    [
+                        109
+                    ]
+                ],
+                "startTime": "11:40"
+            },
+            {
+                "endTime": "13:30",
+                "sessions": [
+                    [
+                        133
+                    ]
+                ],
+                "startTime": "12:30"
+            },
+            {
+                "endTime": "14:20",
+                "sessions": [
+                    [
+                        110
+                    ],
+                    [
+                        112
+                    ]
+                ],
+                "startTime": "13:30"
+            },
+            {
+                "endTime": "15:10",
+                "sessions": [
+                    [
+                        111
+                    ],
+                    [
+                        112
+                    ]
+                ],
+                "startTime": "14:20"
+            },
+            {
+                "endTime": "15:30",
+                "sessions": [
+                    [
+                        134
+                    ]
+                ],
+                "startTime": "15:10"
+            },
+            {
+                "endTime": "16:20",
+                "sessions": [
+                    [
+                        113
+                    ],
+                    [
+                        114
+                    ]
+                ],
+                "startTime": "15:30"
+            },
+            {
+                "endTime": "17:10",
+                "sessions": [
+                    [
+                        105
+                    ],
+                    [
+                        115
+                    ]
+                ],
+                "startTime": "16:20"
+            },
+            {
+                "endTime": "18:00",
+                "sessions": [
+                    [
+                        104
+                    ]
+                ],
+                "startTime": "17:10"
+            }
         ],
         "tracks": [
+            {
+                "title": ""
+            },
+            {
+                "title": ""
+            }
         ]
     }
 ]
