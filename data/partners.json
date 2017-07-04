@@ -1,11 +1,72 @@
 [
-  {
-    "logos": [
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      }
-    ]
-  }
+    {
+        "title": "sponsor",
+        "logos": [
+            {
+                "logoUrl": "../images/logos/google.svg",
+                "name": "Google",
+                "url": "https://www.google.com.ua/intl/en/about/"
+            },
+            {
+                "logoUrl": "../images/logos/caelum.svg",
+                "name": "Caelum",
+                "url": "https://www.caelum.com.br"
+            },
+            {
+                "logoUrl": "../images/logos/dextra.jpg",
+                "name": "Dextra",
+                "url": "http://dextra.com.br/pt/"
+            },
+            {
+                "logoUrl": "../images/logos/ciandt-sponsor.jpg",
+                "name": "CI&T",
+                "url": "http://www.ciandt.com/"
+            }
+        ]
+    },
+    {
+        "title": "support",
+        "logos": [
+            {
+                "logoUrl": "../images/logos/conpec.svg",
+                "name": "Conpec",
+                "url": "http://www.conpec.com.br/"
+            },
+            {
+                "logoUrl": "../images/logos/eu-compraria.jpg",
+                "name": "Eu Compraria!",
+                "url": "https://eucompraria.com.br"
+            },
+            {
+                "logoUrl": "../images/logos/imasters.png",
+                "name": "iMasters",
+                "url": "http://imasters.com.br"
+            },
+            {
+                "logoUrl": "../images/logos/novatec.png",
+                "name": "Novatec Editora",
+                "url": "http://novatec.com.br/"
+            },
+            {
+                "logoUrl": "../images/logos/vrevolution.png",
+                "name": "VRevolution",
+                "url": "http://www.vrevolution.com.br/"
+            }
+        ]
+    },
+    {
+        "title": "partners",
+        "logos": [
+            {
+                "logoUrl": "../images/logos/sou-java.jpg",
+                "name": "SouJava",
+                "url": "https://www.facebook.com/CampinasJUG/"
+            },
+            {
+                "logoUrl": "../images/logos/caipira-agil.png",
+                "name": "Caipira Ágil",
+                "url": "http://www.caipiraagil.com"
+            }
+        ]
+    }
 ]

@@ -35,12 +35,12 @@ meta data in `index.html`
 ```
 <head>
   <meta name="description"
-        content="The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts">
+        content="Campinas, um grande polo tecnológico, recebe a maior conferência sobre tecnologias Google do interior de São Paulo!">
   <meta name="keywords"
         content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev">
-  <meta name="author" content="GDG Lviv">
+  <meta name="author" content="GDG Campinas">
 
-  <title>GDG DevFest Ukraine 2016</title>
+  <title>GDG DevFest Campinas 2016</title>
   ...
 ```
 
@@ -68,7 +68,7 @@ window.ENV = 'dev';
       "tabBarColor": "#fff",
       // data only applicable for the home page
       "video": {
-        "title": "GDG DevFest Ukraine 2016",
+        "title": "GDG DevFest Campinas 2016",
         "youtubeId": "DfMnJAzOFng",
         "text": "See how it was in 2015"
       },

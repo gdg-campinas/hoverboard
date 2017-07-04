@@ -1,2 +1,42 @@
 [
+{		
+     "title": "",		
+     "members": [		
+       {		
+         "name": "Douglas Drumond",		
+         "photoUrl": "/images/people/campinas/doug.jpg",		
+         "socials": [		
+           {		
+             "icon": "gplus",		
+             "link": "https://plus.google.com/+DouglasDrumond",		
+             "name": "Google+"		
+           },		
+           {		
+             "icon": "facebook",		
+             "link": "https://www.facebook.com/drumond",		
+             "name": "Facebook"		
+           },	
+           {		
+             "icon": "github",		
+             "link": "https://github.com/douglasdrumond",		
+             "name": "GitHub"		
+           },	
+           {		
+             "icon": "twitter",		
+             "link": "https://twitter.com/douglasdrumond",		
+             "name": "Twitter"		
+           }		
+         ],		
+         "title": ""		
+       },
+ 		{		
+         "name": "Thaíssa Candella",		
+         "photoUrl": "/images/people/campinas/thai.jpg",		
+         "socials": [				
+           		
+         ],		
+         "title": ""		
+       }
+	]
+}
 ]
